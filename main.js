@@ -1,1 +1,1 @@
-alert ('testando')
+document.querySelector('tecla_pom')
