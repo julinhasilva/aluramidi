@@ -8,4 +8,4 @@ function tocaSomClap() {
     document.querySelector('#som_tecla_clap').play();
 }
 
-Document.querySelector('.tecla_clap').onclick = tocasomclap;
+Document.querySelector('.tecla_clap').onclick = tocaSomClap;
